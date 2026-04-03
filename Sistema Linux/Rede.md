@@ -50,4 +50,4 @@ iface nome_da_placa_de_rede inet static
 auto nome_da_placa_de_rede
 iface nome_da_placa_de_rede inet dhcp
 ```
-<!-- Adicionar futuramente nessa sessão melhor explicação sobre o arquivo interfaces,e xplicando cada declaração, como _auto_ ou _iface_.-->
+<!-- Adicionar futuramente nessa sessão melhor explicação sobre o arquivo interfaces,e xplicando cada declaração, como _auto_ ou _iface_. Adicionar os comandos de rede como ifup e ifdown.-->
